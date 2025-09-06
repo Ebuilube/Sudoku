@@ -1,0 +1,15 @@
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/bin/Debug/net9.0/griglia
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/bin/Debug/net9.0/griglia.deps.json
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/bin/Debug/net9.0/griglia.runtimeconfig.json
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/bin/Debug/net9.0/griglia.dll
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/bin/Debug/net9.0/griglia.pdb
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/obj/Debug/net9.0/griglia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/obj/Debug/net9.0/griglia.AssemblyInfoInputs.cache
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/obj/Debug/net9.0/griglia.AssemblyInfo.cs
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/obj/Debug/net9.0/griglia.csproj.CoreCompileInputs.cache
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/obj/Debug/net9.0/griglia.sourcelink.json
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/obj/Debug/net9.0/griglia.dll
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/obj/Debug/net9.0/refint/griglia.dll
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/obj/Debug/net9.0/griglia.pdb
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/obj/Debug/net9.0/griglia.genruntimeconfig.cache
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/obj/Debug/net9.0/ref/griglia.dll
