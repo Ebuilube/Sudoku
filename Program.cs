@@ -48,7 +48,7 @@ class Program
         if (Sudoku(grid, disp, 0, 0) == true)
         {
             // Rimuovi numeri in base al livello di difficoltà
-            int rimuovi = 15 + livello * 5;
+            int rimuovi = 25 + livello * 5;
             for (int i = 0; i < rimuovi; i++)
             {
                 int r = rnd.Next(9);

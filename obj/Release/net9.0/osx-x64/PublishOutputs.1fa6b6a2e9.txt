@@ -1,0 +1,2 @@
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/bin/Release/net9.0/osx-x64/publish/griglia.pdb
+/Users/mosecapelli/Library/CloudStorage/OneDrive-Personale/Documenti/Info/griglia/bin/Release/net9.0/osx-x64/publish/griglia

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("griglia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d273b50f7486f5cdd9ceb9a987e2111f244b5551")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb264a5d351a591242cf42dfaccb015f39b76fee")]
 [assembly: System.Reflection.AssemblyProductAttribute("griglia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("griglia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
